@@ -58,7 +58,7 @@ footer{
     display:flex;
 
 }
-.contacto__avatar{
+.contacto__avatar img{
     border-radius:50%;
 }
 
