@@ -51,7 +51,13 @@ footer{
 
 /* SECTION */
 .banner{}
-.texto{}
+.texto{
+
+}
+.texto__boton{
+    width:45%;
+    justify-self: center;
+}
 
 
 .contacto{

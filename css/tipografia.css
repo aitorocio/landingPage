@@ -65,4 +65,6 @@ a{
     background-color: var(--colorBotonSteps);
     border-radius: 10px;
     padding: 0.8rem 2rem;
+    justify-self: center;
+    text-align: center;
 }
