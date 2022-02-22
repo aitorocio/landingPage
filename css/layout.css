@@ -52,7 +52,15 @@ footer{
 /* SECTION */
 .banner{}
 .texto{}
-.contacto{}
+
+
+.contacto{
+    display:flex;
+
+}
+.contacto__avatar{
+    border-radius:50%;
+}
 
 /* ASIDE */
 
